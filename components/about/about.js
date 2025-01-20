@@ -33,7 +33,7 @@ const About = (props) => {
                                         <p>Projects Completed</p>
                                     </div>
                                     <div className="tf-funfact-item">
-                                        <h3><span>52</span>+</h3>
+                                        <h3><span>02</span>+</h3>
                                         <p>Awards Win</p>
                                     </div>
                                     <div className="tf-funfact-item">
