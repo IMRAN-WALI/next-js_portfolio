@@ -29,7 +29,7 @@ const About = (props) => {
 
                                 <div className="tf-funfact">
                                     <div className="tf-funfact-item">
-                                        <h3><span>500</span>+</h3>
+                                        <h3><span>20</span>+</h3>
                                         <p>Projects Completed</p>
                                     </div>
                                     <div className="tf-funfact-item">
