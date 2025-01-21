@@ -8,7 +8,6 @@ import blog6 from "/public/images/blog-details/Jenny Watson.jpg";
 import gl1 from "/public/images/blog-details/skill1.jpg";
 import gl2 from "/public/images/blog-details/skill2.jpg";
 import Image from "next/image";
-git add .
 const submitHandler = (e) => {
   e.preventDefault();
 };
