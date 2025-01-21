@@ -29,7 +29,7 @@ const Header = (props) => {
                             </div>
                             <div className="col-lg-3 col-md-6 col-6">
                                 <div className="navbar-header">
-                                    <NavLink onClick={ClickHandler} className="navbar-brand" href="/"><Image src={Logo} alt="" /></NavLink>
+                                    {/* <NavLink onClick={ClickHandler} className="navbar-brand" href="/"><Image src={Logo} alt="" /></NavLink> */}
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-1 col-1">
@@ -53,7 +53,7 @@ const Header = (props) => {
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-lg-3 col-md-2 col-2">
+                            {/* <div className="col-lg-3 col-md-2 col-2">
                                 <div className="header-right" id="home">
                                     <div className="header-search-form-wrapper">
                                         <div className="cart-search-contact">
@@ -72,7 +72,7 @@ const Header = (props) => {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </nav>

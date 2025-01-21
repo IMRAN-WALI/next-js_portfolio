@@ -1,6 +1,7 @@
 import sgImgS1 from '/public/images/service-single/web/img-1.jpg'
 import sgImgS2 from '/public/images/service-single/web/img-2.jpg'
 import sgImgS3 from '/public/images/service-single/web/img-3.jpg'
+// import sgImgS3 from '/public/images/service-single/web/'
 
 import brImgS1 from '/public/images/service-single/app/img-1.jpg'
 import brImgS2 from '/public/images/service-single/app/img-2.jpg'

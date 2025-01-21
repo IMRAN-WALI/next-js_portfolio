@@ -1,4 +1,4 @@
-import pimg1 from '/public/images/project/img-1.jpg'
+import pimg1 from '/public/images/project/web.png'
 import pimg2 from '/public/images/project/img-2.jpg'
 import pimg3 from '/public/images/project/img-3.jpg'
 import pimg4 from '/public/images/project/img-4.jpg'

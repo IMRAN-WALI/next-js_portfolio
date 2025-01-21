@@ -10,7 +10,7 @@ const Footer = (props) => {
                 <div className="row">
                     <div className="col-12">
                         <div className="footer-image">
-                            <Link className="logo" href="/"><Image src={Logo} alt="" /></Link>
+                            {/* <Link className="logo" href="/"><Image src={Logo} alt="" /></Link> */}
                         </div>
                     </div>
                     <div className="col-12">
@@ -26,7 +26,7 @@ const Footer = (props) => {
                     </div>
                     <div className="col-12">
                         <div className="copyright">
-                            <p>© 2023. All rights reserved by themepresss.</p>
+                            <p>© 2025 Imran Wali. All Rights Are Reserved..</p>
                         </div>
                     </div>
                 </div>
