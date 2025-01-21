@@ -6,8 +6,8 @@ import blog3 from '/public/images/blog-details/comments-author/img-1.jpg'
 import blog4 from '/public/images/blog-details/comments-author/img-2.jpg'
 import blog5 from '/public/images/blog-details/comments-author/img-3.jpg'
 import blog6 from '/public/images/blog-details/author.jpg'
-import gl1 from '/public/images/blog-details/1.jpg'
-import gl2 from '/public/images/blog-details/2.jpg'
+import gl1 from '/public/images/blog-details/skill1.jpg'
+import gl2 from '/public/images/blog-details/skill2.jpg'
 import Image from 'next/image';
 
 const submitHandler = (e) => {
