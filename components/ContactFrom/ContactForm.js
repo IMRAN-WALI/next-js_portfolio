@@ -52,7 +52,8 @@ const ContactForm = () => {
                             onBlur={(e) => changeHandler(e)}
                             onChange={(e) => changeHandler(e)}
                             className="form-control"
-                            placeholder="Your Name" />
+                            placeholder="Your Name"
+                            required />
                         {validator.message('name', forms.name, 'required|alpha_space')}
                     </div>
                 </div>
@@ -66,7 +67,8 @@ const ContactForm = () => {
                             onBlur={(e) => changeHandler(e)}
                             onChange={(e) => changeHandler(e)}
                             className="form-control"
-                            placeholder="Your Email" />
+                            placeholder="Your Email"
+                            required />
                         {validator.message('email', forms.email, 'required|email')}
                     </div>
                 </div>
@@ -80,7 +82,8 @@ const ContactForm = () => {
                             type="text"
                             name="message"
                             className="form-control"
-                            placeholder="Message">
+                            placeholder="Message"
+                            required>
                         </textarea>
                         {validator.message('message', forms.message, 'required')}
                     </div>
@@ -96,8 +99,8 @@ const ContactForm = () => {
                 <div className="col-md-7 order-md-2 order-1 col-12">
                     <div className="contact-info">
                         <ul>
-                            <li><i className="fi flaticon-phone-call"></i> +1238575694</li>
-                            <li><i className="fi flaticon-mail"></i> example@mail.com</li>
+                            <li><i className="fi flaticon-phone-call"></i>0315-1986922</li>
+                            <li><i className="fi flaticon-mail"></i> imran.wali2001@mail.com</li>
                         </ul>
                     </div>
                 </div>

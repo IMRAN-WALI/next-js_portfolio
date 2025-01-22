@@ -145,10 +145,12 @@ const BlogSingle = ({
                           Author: Jenny Watson
                         </Link>
                         <p>
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudantium, totam
-                          rem aperiam, eaque ipsa quae ab illo inventore
-                          veritatis.
+                          This project is an exceptional example of blending
+                          creativity with functionality. The attention to detail
+                          and the seamless user experience truly stand out. It’s
+                          clear that a lot of thought and effort went into
+                          crafting a solution that not only looks great but also
+                          serves its purpose effectively. Impressive work!
                         </p>
                         <div className="socials">
                           <ul className="social-link">
@@ -262,10 +264,11 @@ const BlogSingle = ({
                                       </div>
                                       <div className="comment-area">
                                         <p>
-                                          I will give you a complete account of
-                                          the system, and expound the actual
-                                          teachings of the great explorer of the
-                                          truth,{" "}
+                                          I’m so glad you liked it! Hearing that
+                                          the layout feels well-organized and
+                                          intuitive really makes all the effort
+                                          worthwhile. Thank you for taking the
+                                          time to share your thoughts!
                                         </p>
                                         <div className="comments-reply">
                                           <Link
@@ -340,9 +343,12 @@ const BlogSingle = ({
                                   </div>
                                   <div className="comment-area">
                                     <p>
-                                      I will give you a complete account of the
-                                      system, and expound the actual teachings
-                                      of the great explorer of the truth,{" "}
+                                      I love how clean and professional this
+                                      project looks! The design is modern, and
+                                      it’s so easy to navigate. It’s obvious
+                                      that a lot of effort went into making it
+                                      both user-friendly and visually appealing.
+                                      Great job!
                                     </p>
                                     <div className="comments-reply">
                                       <Link
