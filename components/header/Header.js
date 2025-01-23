@@ -2,19 +2,19 @@ import Image from "next/image";
 import React, { useState } from "react";
 import { Link } from "react-scroll";
 import MobileMenu from "../MobileMenu/MobileMenu";
-// import Logo from '/public/images/logo.png'
-// import NavLink from 'next/link'
+import Logo from "/public/images/mylogo.png";
+import NavLink from "next/link";
 
 const Header = (props) => {
-  // const [menuActive, setMenuState] = useState(false);
+//   const [menuActive, setMenuState] = useState(false);
 
-  // const SubmitHandler = (e) => {
-  //     e.preventDefault()
-  // }
+//   const SubmitHandler = (e) => {
+//       e.preventDefault()
+//   }
 
-  // const ClickHandler = () => {
-  //     window.scrollTo(10, 0);
-  // }
+  const ClickHandler = () => {
+      window.scrollTo(10, 0);
+  }
 
   return (
     <header id="header" className={props.topbarNone}>
@@ -29,7 +29,13 @@ const Header = (props) => {
               </div>
               <div className="col-lg-3 col-md-6 col-6">
                 <div className="navbar-header">
-                  {/* <NavLink onClick={ClickHandler} className="navbar-brand" href="/"><Image src={Logo} alt="" /></NavLink> */}
+                  <NavLink
+                    onClick={ClickHandler}
+                    className="navbar-brand"
+                    href="/"
+                  >
+                    <Image src={Logo} alt="" />
+                  </NavLink>
                 </div>
               </div>
               <div className="col-lg-6 col-md-1 col-1">
