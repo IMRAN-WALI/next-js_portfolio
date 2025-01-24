@@ -6,15 +6,15 @@ import Logo from "/public/images/mylogo.png";
 import NavLink from "next/link";
 
 const Header = (props) => {
-//   const [menuActive, setMenuState] = useState(false);
+  //   const [menuActive, setMenuState] = useState(false);
 
-//   const SubmitHandler = (e) => {
-//       e.preventDefault()
-//   }
+  //   const SubmitHandler = (e) => {
+  //       e.preventDefault()
+  //   }
 
   const ClickHandler = () => {
-      window.scrollTo(10, 0);
-  }
+    window.scrollTo(10, 0);
+  };
 
   return (
     <header id="header" className={props.topbarNone}>
