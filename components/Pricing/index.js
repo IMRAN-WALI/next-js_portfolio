@@ -12,7 +12,7 @@ const Pricing = (props) => {
     const pricing = [
         {
             rate: '120',
-            des: 'Consectetur adipiscing elit. Purusout phasellus.',
+            des: 'Perfect for startups and small projects',
             li1: 'Web App design',
             li2: 'Software Development',
             li3: '3D Animation Add',
@@ -23,7 +23,7 @@ const Pricing = (props) => {
         },
         {
             rate: '210',
-            des: 'Consectetur adipiscing elit. Purusout phasellus.',
+            des: 'For growing businesses with advanced needs',
             li1: 'Web App design',
             li2: 'Software Development',
             li3: '3D Animation Add',
@@ -34,7 +34,7 @@ const Pricing = (props) => {
         },
         {
             rate: '373',
-            des: 'Consectetur adipiscing elit. Purusout phasellus.',
+            des: 'Enterprise-grade solutions',
             li1: 'Web App design',
             li2: 'Software Development',
             li3: '3D Animation Add',

@@ -99,7 +99,7 @@ const ContactForm = () => {
                 <div className="col-md-7 order-md-2 order-1 col-12">
                     <div className="contact-info">
                         <ul>
-                            <li><i className="fi flaticon-phone-call"></i>0315-1986922</li>
+                            <li><i className="fi flaticon-phone-call"></i>+92 315-1986922</li>
                             <li><i className="fi flaticon-mail"></i> imran.wali2001@mail.com</li>
                         </ul>
                     </div>
