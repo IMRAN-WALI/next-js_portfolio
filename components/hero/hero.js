@@ -42,13 +42,13 @@ const Hero = () => {
       <div className="social-link">
         <ul>
           <li>
-            <NavLink href="/">Facebook</NavLink>
+            <NavLink href="https://www.facebook.com/share/1BvWMSP1Hz" target='_blank'>Facebook</NavLink>
           </li>
           <li>
-            <NavLink href="/">Twitter</NavLink>
+            <NavLink href="https://x.com/ImranWali2001?t=tEvt9WGCdXmG1F0-z5SG2g&s=09" target='_blank'>Twitter</NavLink>
           </li>
           <li>
-            <NavLink href="/">Instagram</NavLink>
+            <NavLink href="https://www.instagram.com/imranwali38?igsh=czF3cDRybHI5Zmpi" target='_blank'>Instagram</NavLink>
           </li>
         </ul>
       </div>
